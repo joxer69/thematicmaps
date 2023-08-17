@@ -1,0 +1,13 @@
+/* Stiliziranje za mobilne uređaje */
+@media (max-width: 768px) {
+    #map {
+        height: 300px;
+    }
+}
+
+/* Stiliziranje za tablete i računala */
+@media (min-width: 769px) {
+    #map {
+        height: 500px;
+    }
+}
